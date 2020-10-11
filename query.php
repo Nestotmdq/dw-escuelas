@@ -1,5 +1,5 @@
 <?php
-
+//rama consultas
 include 'conexion.php';
 
    
@@ -106,7 +106,7 @@ foreach($datos as $coordX => $coordY){
   
 }
 
-   echo "<br>";
+   echo "<br>" ;
    echo "<table border=1 cellspacing=0 style=\"border-collapse: collapse\">\n";
    echo "<tr>\n";
      echo "<td width=50 height=20></td>\n";
