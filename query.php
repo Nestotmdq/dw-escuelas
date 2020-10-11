@@ -1,5 +1,4 @@
 <?php
-//rama consultas
 include 'conexion.php';
 
    
